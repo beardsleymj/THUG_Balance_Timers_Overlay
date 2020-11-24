@@ -1,0 +1,10 @@
+D:\Projects\THUG_Balance_Timers_Overlay\bin\Release\THUG_Balance_Timers_Overlay.exe.config
+D:\Projects\THUG_Balance_Timers_Overlay\bin\Release\THUG_Balance_Timers_Overlay.exe
+D:\Projects\THUG_Balance_Timers_Overlay\bin\Release\THUG_Balance_Timers_Overlay.pdb
+D:\Projects\THUG_Balance_Timers_Overlay\obj\Release\THUG_Balance_Timers_Overlay.csprojAssemblyReference.cache
+D:\Projects\THUG_Balance_Timers_Overlay\obj\Release\THUG_Balance_Timers_Overlay.Form1.resources
+D:\Projects\THUG_Balance_Timers_Overlay\obj\Release\THUG_Balance_Timers_Overlay.Properties.Resources.resources
+D:\Projects\THUG_Balance_Timers_Overlay\obj\Release\THUG_Balance_Timers_Overlay.csproj.GenerateResource.cache
+D:\Projects\THUG_Balance_Timers_Overlay\obj\Release\THUG_Balance_Timers_Overlay.exe
+D:\Projects\THUG_Balance_Timers_Overlay\obj\Release\THUG_Balance_Timers_Overlay.pdb
+D:\Projects\THUG_Balance_Timers_Overlay\obj\Release\THUG_Balance_Timers_Overlay.csproj.CoreCompileInputs.cache
